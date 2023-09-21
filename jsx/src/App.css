@@ -1,0 +1,16 @@
+.movie-card{
+  text-align: center;
+  height: 30vh;
+  width: 80px;
+  box-shadow: 0cqi black;
+  border-radius:10px;
+}
+
+
+.head{
+  text-align: center;
+}
+
+.para{
+  text-align: center;
+}
